@@ -19,7 +19,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
-package biz.caliman.javamailcommand;
+package com.trueprogramming.mailcommand;
 
 import java.io.File;
 import java.io.IOException;
